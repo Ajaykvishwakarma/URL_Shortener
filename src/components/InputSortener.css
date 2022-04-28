@@ -1,0 +1,40 @@
+.inputContainer{
+    border:2px solid rgb(48, 252, 7);
+    width:350px;
+    background: rgb(138, 148, 138);
+    height:250px;
+    margin: auto;
+    border-radius: 20px;
+ 
+}
+
+.inputContainer h1 span{
+    color:rgb(26, 206, 20);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.InputBox {
+    width:90%;
+    height:30px;
+    border:none;
+    outline: none ;
+    padding: 5px;
+    border-radius: 5px;
+}
+#inputBtn{
+    width:150px;
+    padding: 10px;
+    background: rgb(182, 16, 233) ;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    color: antiquewhite;
+    font-size: 20px;
+}
+ #inputBtn:hover {
+    cursor: pointer;
+    padding: 8;
+    background: rgb(100, 5, 129) ;
+    color: antiquewhite;
+}

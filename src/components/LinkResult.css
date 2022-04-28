@@ -1,0 +1,38 @@
+.show{
+    width:250px;
+    height:30px;
+    border:2px solid rgb(100, 226, 15);
+    padding:5px;
+    margin: auto;
+    margin-top: 20px;
+
+
+}
+.result {
+    max-width:400px;
+    height:200px;
+    background:rgb(180, 238, 178);
+    border:3px solid #07ad01;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+.result > button{ 
+
+    width:150px;
+    padding: 10px;
+    background: rgb(182, 16, 233) ;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    color: antiquewhite;
+}
+
+.result > button:hover {
+    cursor: pointer;
+    padding: 8;
+    background: rgb(100, 5, 129) ;
+    color: antiquewhite;
+}
